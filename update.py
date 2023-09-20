@@ -13,7 +13,6 @@ headers = {
 
 # Make a request to the website
 r = requests.get("https://www.saurida.lt/kuro-kainos-degalinese/", headers=headers)
-r.content
 
 # Use the 'html.parser' to parse the page
 soup = BeautifulSoup(r.content, 'html.parser')
