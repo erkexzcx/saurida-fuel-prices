@@ -6,14 +6,14 @@ Saurida fuel prices in Lithuania. A poor man's API.
 
 ## CLI
 
-You can easily get price using below request in bash:
+You can easily get price using below request in bash (see [prices.json](https://github.com/erkexzcx/saurida-fuel-prices/blob/main/prices.json) for more details):
 ```bash
 curl -s https://raw.githubusercontent.com/erkexzcx/saurida-fuel-prices/main/prices.json | jq '.alytus_miskininku_g.dyzelinas_b7'
 ```
 
 ## Home Assistant integration
 
-Update `configuration.yml` and add below code:
+Update `configuration.yml` and add below code (see [prices.json](https://github.com/erkexzcx/saurida-fuel-prices/blob/main/prices.json) for more details):
 ```yaml
 sensor:
   - platform: rest
