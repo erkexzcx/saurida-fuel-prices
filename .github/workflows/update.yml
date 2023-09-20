@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+
+    - name: Install deps
+      run: pip3 install BeautifulSoup4
     
     - name: Update prices
       run: python3 update.py > prices.json
