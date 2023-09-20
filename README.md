@@ -15,32 +15,13 @@ curl -s https://raw.githubusercontent.com/erkexzcx/saurida-fuel-prices/main/pric
 
 Update `configuration.yml` and add below code:
 ```yaml
-rest:
-  - scan_interval: 3600 # 1 hours
+sensor:
+  - platform: rest
+    scan_interval: 3600 # 1 hour
     resource: "https://raw.githubusercontent.com/erkexzcx/saurida-fuel-prices/main/prices.json"
-    sensor:
-      - name: "Saurida Alytus, Miškininkų g. Fuel Prices"
-        json_attributes_path: '$.alytus_miskininku_g' # select location from prices.json
-        value_template: "0"
-        json_attributes:
-          # Only add fields that are non-zero (exists) in prices.json for your selected location
-          - dyzelinas_b7
-          - benzinas_a95_e5
-          - dyzelinas_dz
+    name: "Saurida Alytus, Miškininkų g. diesel price"
+    value_template: '{{ value_json.alytus_miskininku_g.dyzelinas_b7 }}'
+    force_update: True
+    icon: "mdi:gas-station"
+    unit_of_measurement: "€/l"
 ```
-
-Then you can create a panel like this:
-```yaml
-type: entity
-entity: sensor.saurida_alytus_miskininku_g_fuel_prices
-name: Saurida dyzelio kaina/l
-unit: €
-icon: mdi:gas-station
-attribute: dyzelinas_b7
-```
-
-Here is how it looks in Home Assistant:
-
-![](https://github.com/erkexzcx/saurida-fuel-prices/raw/main/screenshots/screenshot1.png)
-
-![](https://github.com/erkexzcx/saurida-fuel-prices/raw/main/screenshots/screenshot2.png)
