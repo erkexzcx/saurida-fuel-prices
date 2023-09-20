@@ -19,10 +19,10 @@ Update `configuration.yml` and add below code:
     resource: "https://raw.githubusercontent.com/erkexzcx/saurida-fuel-prices/main/prices.json"
     sensor:
       - name: "Saurida Alytus, Miškininkų g. Fuel Prices"
-        json_attributes_path: '$.alytus_miskininku_g'
+        json_attributes_path: '$.alytus_miskininku_g' # select location from prices.json
         value_template: "0"
         json_attributes:
-          # Only add fields that are non-zero (exists)
+          # Only add fields that are non-zero (exists) in prices.json for your selected location
           - dyzelinas_b7
           - benzinas_a95_e5
           - dyzelinas_dz
