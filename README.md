@@ -15,6 +15,7 @@ curl -s https://raw.githubusercontent.com/erkexzcx/saurida-fuel-prices/main/pric
 
 Update `configuration.yml` and add below code:
 ```yaml
+rest:
   - scan_interval: 3600 # 1 hours
     resource: "https://raw.githubusercontent.com/erkexzcx/saurida-fuel-prices/main/prices.json"
     sensor:
