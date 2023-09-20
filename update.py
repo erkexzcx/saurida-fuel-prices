@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import unicodedata
 
 # Define headers for the request
 headers = {
@@ -26,6 +27,11 @@ headers = [header.text.lower().strip() for header in table.find_all('th')]
 # Find all the rows
 rows = table.find_all('tr')
 
+# Function to remove diacritics and replace with non-accented equivalent
+def strip_accents(text):
+    return ''.join(c for c in unicodedata.normalize('NFD', text)
+                  if unicodedata.category(c) != 'Mn')
+
 # Store the data
 data = {}
 for row in rows[1:]:
@@ -36,9 +42,9 @@ for row in rows[1:]:
         # Use the first column as key, and the rest of the columns as values
         # Convert numeric values to float, "-" to 0
         # Replace spaces and special characters in the first column with underscore
-        key = re.sub('[^a-zA-Z0-9]', '', cols[0])
-        key = key.replace(' ', '_').lower()
-        data[key] = {headers[i].replace(' ', '_').lower(): float(re.sub('[^0-9.]', '', cols[i]).replace(',', '.')) if re.sub('[^0-9.]', '', cols[i]).replace('.','',1).isdigit() else (0 if cols[i] == '-' else re.sub('[^a-zA-Z0-9]', '', cols[i]).lower()) for i in range(1, len(cols))}
+        key = re.sub('[^a-zA-Z0-9 ]', '', strip_accents(cols[0]))
+        key = re.sub(' +', '_', key).lower()
+        data[key] = {re.sub(' +', '_', strip_accents(headers[i]).lower()): float(re.sub('[^0-9.]', '', cols[i]).replace(',', '.')) if re.sub('[^0-9.]', '', cols[i]).replace('.','',1).isdigit() else (0 if cols[i] == '-' else re.sub('[^a-zA-Z0-9 ]', '', strip_accents(cols[i])).lower()) for i in range(1, len(cols))}
 
 # Print the data
 print(json.dumps(data, indent=4, ensure_ascii=False))
