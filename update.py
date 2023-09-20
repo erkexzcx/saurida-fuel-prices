@@ -31,6 +31,12 @@ def strip_accents(text):
     return ''.join(c for c in unicodedata.normalize('NFD', text)
                   if unicodedata.category(c) != 'Mn')
 
+def clean_text(text):
+    text = strip_accents(text)
+    text = re.sub('[^a-zA-Z0-9 ]', '', text)
+    text = re.sub(' +', '_', text).lower()
+    return text
+
 # Store the data
 data = {}
 for row in rows[1:]:
@@ -40,10 +46,8 @@ for row in rows[1:]:
     if len(cols) >= len(headers):
         # Use the first column as key, and the rest of the columns as values
         # Convert numeric values to float, "-" to 0
-        # Replace spaces and special characters in the first column with underscore
-        key = re.sub('[^a-zA-Z0-9 ]', '', strip_accents(cols[0]))
-        key = re.sub(' +', '_', key).lower()
-        data[key] = {re.sub(' +', '_', strip_accents(headers[i]).lower()): float(re.sub('[^0-9.]', '', cols[i]).replace(',', '.')) if re.sub('[^0-9.]', '', cols[i]).replace('.','',1).isdigit() else (0 if cols[i] == '-' else re.sub('[^a-zA-Z0-9 ]', '', strip_accents(cols[i])).lower()) for i in range(1, len(cols))}
+        key = clean_text(cols[0])
+        data[key] = {clean_text(headers[i]): float(re.sub('[^0-9.]', '', cols[i]).replace(',', '.')) if re.sub('[^0-9.]', '', cols[i]).replace('.','',1).isdigit() else (0 if cols[i] == '-' else clean_text(cols[i])) for i in range(1, len(cols))}
 
 # Print the data
 print(json.dumps(data, indent=4, ensure_ascii=False))
