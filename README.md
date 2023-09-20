@@ -1,4 +1,4 @@
-# Saurida fuel prices
+# Saurida fuel prices API
 
 Saurida fuel prices in Lithuania. A poor man's API.
 
