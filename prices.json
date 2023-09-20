@@ -6,7 +6,7 @@
         "dyzelinas  (dž)": 1.23,
         "benzinas  a98 (e5)": 1.58
     },
-    "Rokiškis**": {
+    "Rokiškis": {
         "dyzelinas  (b7)": 0,
         "benzinas  a95 (e5)": 0,
         "dujos  (lpg)": 0.59,
@@ -41,35 +41,35 @@
         "dyzelinas  (dž)": 1.24,
         "benzinas  a98 (e5)": 0
     },
-    "Vilnius, Stanevičiaus g. 3A": {
+    "Vilnius_Stanevičiaus_g_3A": {
         "dyzelinas  (b7)": 0,
         "benzinas  a95 (e5)": 0,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Vilnius, Rygos g. 2B": {
+    "Vilnius_Rygos_g_2B": {
         "dyzelinas  (b7)": 0,
         "benzinas  a95 (e5)": 0,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Ignalina**": {
+    "Ignalina": {
         "dyzelinas  (b7)": 0,
         "benzinas  a95 (e5)": 0,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Anykščiai**": {
+    "Anykščiai": {
         "dyzelinas  (b7)": 0,
         "benzinas  a95 (e5)": 0,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Vilkaviškis**": {
+    "Vilkaviškis": {
         "dyzelinas  (b7)": 0,
         "benzinas  a95 (e5)": 0,
         "dujos  (lpg)": 0.59,
@@ -83,28 +83,28 @@
         "dyzelinas  (dž)": 1.23,
         "benzinas  a98 (e5)": 0
     },
-    "Neveronys, Martinavos g.": {
+    "Neveronys_Martinavos_g": {
         "dyzelinas  (b7)": 1.59,
         "benzinas  a95 (e5)": 1.56,
         "dujos  (lpg)": 0.6,
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Vilnius, Jankiškių g.": {
+    "Vilnius_Jankiškių_g": {
         "dyzelinas  (b7)": 1.6,
         "benzinas  a95 (e5)": 1.57,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Ukmergė, Vilniaus g.": {
+    "Ukmergė_Vilniaus_g": {
         "dyzelinas  (b7)": 1.6,
         "benzinas  a95 (e5)": 1.57,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 1.23,
         "benzinas  a98 (e5)": 0
     },
-    "Ukmergė, Kareivinių g.": {
+    "Ukmergė_Kareivinių_g": {
         "dyzelinas  (b7)": 1.6,
         "benzinas  a95 (e5)": 1.57,
         "dujos  (lpg)": 0.59,
@@ -118,14 +118,14 @@
         "dyzelinas  (dž)": 1.22,
         "benzinas  a98 (e5)": 0
     },
-    "Šiauliai, Vilniaus g.": {
+    "Šiauliai_Vilniaus_g": {
         "dyzelinas  (b7)": 1.59,
         "benzinas  a95 (e5)": 1.56,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 1.22,
         "benzinas  a98 (e5)": 0
     },
-    "Šiauliai, Pramonės g.": {
+    "Šiauliai_Pramonės_g": {
         "dyzelinas  (b7)": 1.58,
         "benzinas  a95 (e5)": 1.57,
         "dujos  (lpg)": 0.59,
@@ -181,7 +181,7 @@
         "dyzelinas  (dž)": 1.23,
         "benzinas  a98 (e5)": 0
     },
-    "N.Akmenė": {
+    "NAkmenė": {
         "dyzelinas  (b7)": 1.6,
         "benzinas  a95 (e5)": 1.57,
         "dujos  (lpg)": 0.58,
@@ -216,7 +216,7 @@
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Kazlų Rūda": {
+    "Kazlų_Rūda": {
         "dyzelinas  (b7)": 0,
         "benzinas  a95 (e5)": 0,
         "dujos  (lpg)": 0.59,
@@ -251,14 +251,14 @@
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Alytus, Pramonės g.": {
+    "Alytus_Pramonės_g": {
         "dyzelinas  (b7)": 1.59,
         "benzinas  a95 (e5)": 1.57,
         "dujos  (lpg)": 0.59,
         "dyzelinas  (dž)": 0,
         "benzinas  a98 (e5)": 0
     },
-    "Alytus, Miškininkų g.": {
+    "Alytus_Miškininkų_g": {
         "dyzelinas  (b7)": 1.59,
         "benzinas  a95 (e5)": 1.57,
         "dujos  (lpg)": 0,
