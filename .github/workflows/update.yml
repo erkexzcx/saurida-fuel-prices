@@ -17,13 +17,10 @@ jobs:
     - name: Update prices
       run: python3 update.py > prices.json
 
-    - name: Configure Git
+    - name: git push
       run: |
         git config user.name "GitHub Actions"
         git config user.email "github-actions@github.com"
-
-    - name: Commit and push if changed
-      run: |
         git add -A .
         DATETIME=$(date +'%Y-%m-%d-%H%M%S')
         git commit -m "update $DATETIME" || exit 0
