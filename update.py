@@ -36,9 +36,9 @@ for row in rows[1:]:
         # Use the first column as key, and the rest of the columns as values
         # Convert numeric values to float, "-" to 0
         # Replace spaces and special characters in the first column with underscore
-        key = re.sub('[,.*-]', '', cols[0])
-        key = re.sub('[ ]', '_', key)
-        data[key] = {headers[i]: float(cols[i].replace(',', '.')) if cols[i].replace('.','',1).replace(',', '', 1).isdigit() else (0 if cols[i] == '-' else cols[i]) for i in range(1, len(cols))}
+        key = re.sub('[^a-zA-Z0-9]', '', cols[0])
+        key = key.replace(' ', '_').lower()
+        data[key] = {headers[i].replace(' ', '_').lower(): float(re.sub('[^0-9.]', '', cols[i]).replace(',', '.')) if re.sub('[^0-9.]', '', cols[i]).replace('.','',1).isdigit() else (0 if cols[i] == '-' else re.sub('[^a-zA-Z0-9]', '', cols[i]).lower()) for i in range(1, len(cols))}
 
 # Print the data
 print(json.dumps(data, indent=4, ensure_ascii=False))
