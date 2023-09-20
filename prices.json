@@ -1,289 +1,289 @@
 {
-    "Kušliškiai": {
-        "dyzelinas  (b7)": 1.58,
-        "benzinas  a95 (e5)": 1.54,
-        "dujos  (lpg)": 0.57,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 1.58
+    "kulikiai": {
+        "dyzelinas__(b7)": 1.58,
+        "benzinas__a95_(e5)": 1.54,
+        "dujos__(lpg)": 0.57,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 1.58
     },
-    "Rokiškis": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "rokikis": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 59.0,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Domeikava": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.58,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.22,
-        "benzinas  a98 (e5)": 0
+    "domeikava": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.58,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.22,
+        "benzinas__a98_(e5)": 0
     },
-    "Velžiai": {
-        "dyzelinas  (b7)": 1.58,
-        "benzinas  a95 (e5)": 1.55,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.22,
-        "benzinas  a98 (e5)": 1.57
+    "veliai": {
+        "dyzelinas__(b7)": 1.58,
+        "benzinas__a95_(e5)": 1.55,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.22,
+        "benzinas__a98_(e5)": 1.57
     },
-    "Marijampolė": {
-        "dyzelinas  (b7)": 1.58,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0,
-        "dyzelinas  (dž)": 1.22,
-        "benzinas  a98 (e5)": 0
+    "marijampol": {
+        "dyzelinas__(b7)": 1.58,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0,
+        "dyzelinas__(dž)": 1.22,
+        "benzinas__a98_(e5)": 0
     },
-    "Mauručiai": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0,
-        "dyzelinas  (dž)": 1.24,
-        "benzinas  a98 (e5)": 0
+    "mauruiai": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0,
+        "dyzelinas__(dž)": 1.24,
+        "benzinas__a98_(e5)": 0
     },
-    "Vilnius_Stanevičiaus_g_3A": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "vilniusstaneviiausg3a": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Vilnius_Rygos_g_2B": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "vilniusrygosg2b": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Ignalina": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "ignalina": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Anykščiai": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "anykiai": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Vilkaviškis": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "vilkavikis": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Visaginas": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "visaginas": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Neveronys_Martinavos_g": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.6,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "neveronysmartinavosg": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.6,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Vilnius_Jankiškių_g": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "vilniusjankikig": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Ukmergė_Vilniaus_g": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "ukmergvilniausg": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Ukmergė_Kareivinių_g": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "ukmergkareivinig": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Šilalė": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.57,
-        "dyzelinas  (dž)": 1.22,
-        "benzinas  a98 (e5)": 0
+    "ilal": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.57,
+        "dyzelinas__(dž)": 1.22,
+        "benzinas__a98_(e5)": 0
     },
-    "Šiauliai_Vilniaus_g": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.22,
-        "benzinas  a98 (e5)": 0
+    "iauliaivilniausg": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.22,
+        "benzinas__a98_(e5)": 0
     },
-    "Šiauliai_Pramonės_g": {
-        "dyzelinas  (b7)": 1.58,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "iauliaipramonsg": {
+        "dyzelinas__(b7)": 1.58,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Skuodas": {
-        "dyzelinas  (b7)": 1.64,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.24,
-        "benzinas  a98 (e5)": 0
+    "skuodas": {
+        "dyzelinas__(b7)": 1.64,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.24,
+        "benzinas__a98_(e5)": 0
     },
-    "Rumšiškės": {
-        "dyzelinas  (b7)": 1.61,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.6,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "rumiks": {
+        "dyzelinas__(b7)": 1.61,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.6,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Radviliškis": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.55,
-        "dujos  (lpg)": 0.6,
-        "dyzelinas  (dž)": 1.22,
-        "benzinas  a98 (e5)": 0
+    "radvilikis": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.55,
+        "dujos__(lpg)": 0.6,
+        "dyzelinas__(dž)": 1.22,
+        "benzinas__a98_(e5)": 0
     },
-    "Prienai": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.6,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "prienai": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.6,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Pašvenčiai": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.58,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "paveniai": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.58,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Pašakarniai": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.58,
-        "dyzelinas  (dž)": 1.24,
-        "benzinas  a98 (e5)": 0
+    "paakarniai": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.58,
+        "dyzelinas__(dž)": 1.24,
+        "benzinas__a98_(e5)": 0
     },
-    "Pageležiai": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "pageleiai": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "NAkmenė": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.58,
-        "dyzelinas  (dž)": 1.24,
-        "benzinas  a98 (e5)": 0
+    "nakmen": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.58,
+        "dyzelinas__(dž)": 1.24,
+        "benzinas__a98_(e5)": 0
     },
-    "Mažeikiai": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.58,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "maeikiai": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.58,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Lekėčiai": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "lekiai": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Lazdijai": {
-        "dyzelinas  (b7)": 1.62,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.6,
-        "dyzelinas  (dž)": 1.24,
-        "benzinas  a98 (e5)": 0
+    "lazdijai": {
+        "dyzelinas__(b7)": 1.62,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.6,
+        "dyzelinas__(dž)": 1.24,
+        "benzinas__a98_(e5)": 0
     },
-    "Klaipėda": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "klaipda": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Kazlų_Rūda": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "kazlrda": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Kalvarija": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "kalvarija": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Čekoniškės": {
-        "dyzelinas  (b7)": 1.61,
-        "benzinas  a95 (e5)": 1.58,
-        "dujos  (lpg)": 0,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "ekoniks": {
+        "dyzelinas__(b7)": 1.61,
+        "benzinas__a95_(e5)": 1.58,
+        "dujos__(lpg)": 0,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Babtai": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "babtai": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Kaunas": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "kaunas": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Alytus_Pramonės_g": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "alytuspramonsg": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Alytus_Miškininkų_g": {
-        "dyzelinas  (b7)": 1.59,
-        "benzinas  a95 (e5)": 1.57,
-        "dujos  (lpg)": 0,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "alytusmikininkg": {
+        "dyzelinas__(b7)": 1.59,
+        "benzinas__a95_(e5)": 1.57,
+        "dujos__(lpg)": 0,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Akmenė": {
-        "dyzelinas  (b7)": 1.6,
-        "benzinas  a95 (e5)": 1.56,
-        "dujos  (lpg)": 0.58,
-        "dyzelinas  (dž)": 1.23,
-        "benzinas  a98 (e5)": 0
+    "akmen": {
+        "dyzelinas__(b7)": 1.6,
+        "benzinas__a95_(e5)": 1.56,
+        "dujos__(lpg)": 0.58,
+        "dyzelinas__(dž)": 1.23,
+        "benzinas__a98_(e5)": 0
     },
-    "Zujūnai": {
-        "dyzelinas  (b7)": 1.61,
-        "benzinas  a95 (e5)": 1.58,
-        "dujos  (lpg)": 0.59,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "zujnai": {
+        "dyzelinas__(b7)": 1.61,
+        "benzinas__a95_(e5)": 1.58,
+        "dujos__(lpg)": 0.59,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     },
-    "Žirmūnai": {
-        "dyzelinas  (b7)": 0,
-        "benzinas  a95 (e5)": 0,
-        "dujos  (lpg)": 0.58,
-        "dyzelinas  (dž)": 0,
-        "benzinas  a98 (e5)": 0
+    "irmnai": {
+        "dyzelinas__(b7)": 0,
+        "benzinas__a95_(e5)": 0,
+        "dujos__(lpg)": 0.58,
+        "dyzelinas__(dž)": 0,
+        "benzinas__a98_(e5)": 0
     }
 }
