@@ -3,6 +3,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import re
 
 # Define headers for the request
 headers = {
@@ -34,7 +35,10 @@ for row in rows[1:]:
     if len(cols) >= len(headers):
         # Use the first column as key, and the rest of the columns as values
         # Convert numeric values to float, "-" to 0
-        data[cols[0]] = {headers[i]: float(cols[i].replace(',', '.')) if cols[i].replace('.','',1).replace(',', '', 1).isdigit() else (0 if cols[i] == '-' else cols[i]) for i in range(1, len(cols))}
+        # Replace spaces and special characters in the first column with underscore
+        key = re.sub('[,.*-]', '', cols[0])
+        key = re.sub('[ ]', '_', key)
+        data[key] = {headers[i]: float(cols[i].replace(',', '.')) if cols[i].replace('.','',1).replace(',', '', 1).isdigit() else (0 if cols[i] == '-' else cols[i]) for i in range(1, len(cols))}
 
 # Print the data
 print(json.dumps(data, indent=4, ensure_ascii=False))
