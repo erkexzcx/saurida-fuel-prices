@@ -196,14 +196,14 @@
         "benzinas_a98_e5": 0
     },
     "lekeciai": {
-        "dyzelinas_b7": 1.59,
+        "dyzelinas_b7": 1.57,
         "benzinas_a95_e5": 1.53,
         "dujos_lpg": 0.56,
         "dyzelinas_dz": 1.2,
         "benzinas_a98_e5": 0
     },
     "lazdijai": {
-        "dyzelinas_b7": 1.59,
+        "dyzelinas_b7": 1.57,
         "benzinas_a95_e5": 1.55,
         "dujos_lpg": 0.58,
         "dyzelinas_dz": 1.23,
@@ -231,7 +231,7 @@
         "benzinas_a98_e5": 0
     },
     "cekoniskes": {
-        "dyzelinas_b7": 1.61,
+        "dyzelinas_b7": 1.58,
         "benzinas_a95_e5": 1.59,
         "dujos_lpg": 0,
         "dyzelinas_dz": 0,
@@ -273,7 +273,7 @@
         "benzinas_a98_e5": 0
     },
     "zujunai": {
-        "dyzelinas_b7": 1.61,
+        "dyzelinas_b7": 1.58,
         "benzinas_a95_e5": 1.59,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 0,
