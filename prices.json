@@ -1,6 +1,6 @@
 {
     "velziai": {
-        "dyzelinas_b7": 1.52,
+        "dyzelinas_b7": 1.5,
         "benzinas_a95_e5": 1.56,
         "dujos_lpg": 0.61,
         "dyzelinas_dz": 1.22,
@@ -161,7 +161,7 @@
         "benzinas_a98_e5": 0
     },
     "radviliskis": {
-        "dyzelinas_b7": 1.55,
+        "dyzelinas_b7": 1.52,
         "benzinas_a95_e5": 1.56,
         "dujos_lpg": 0.62,
         "dyzelinas_dz": 1.22,
