@@ -112,17 +112,17 @@
         "benzinas_a98_e5": 0
     },
     "ukmerge_vilniaus_g": {
-        "dyzelinas_b7": 1.55,
-        "benzinas_a95_e5": 1.53,
+        "dyzelinas_b7": 1.51,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
-        "dyzelinas_dz": 1.2,
+        "dyzelinas_dz": 1.19,
         "benzinas_a98_e5": 0
     },
     "ukmerge_kareiviniu_g": {
-        "dyzelinas_b7": 1.53,
-        "benzinas_a95_e5": 1.5,
+        "dyzelinas_b7": 1.51,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
-        "dyzelinas_dz": 1.2,
+        "dyzelinas_dz": 1.19,
         "benzinas_a98_e5": 0
     },
     "silale": {
