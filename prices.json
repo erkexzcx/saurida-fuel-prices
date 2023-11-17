@@ -17,7 +17,7 @@
         "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.47,
         "dujos_lpg": 0.58,
-        "dyzelinas_dz": 1.15,
+        "dyzelinas_dz": 1.12,
         "benzinas_a98_e5": 0
     },
     "domeikava": {
@@ -31,7 +31,7 @@
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.43,
         "dujos_lpg": 0,
-        "dyzelinas_dz": 1.19,
+        "dyzelinas_dz": 1.16,
         "benzinas_a98_e5": 0
     },
     "mauruciai": {
@@ -268,7 +268,7 @@
     "akmene": {
         "dyzelinas_b7": 1.5,
         "benzinas_a95_e5": 1.52,
-        "dujos_lpg": 0.61,
+        "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.14,
         "benzinas_a98_e5": 0
     },
