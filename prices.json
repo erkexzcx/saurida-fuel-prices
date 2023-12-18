@@ -154,10 +154,10 @@
         "benzinas_a98_e5": 0
     },
     "pasakarniai": {
-        "dyzelinas_b7": 1.48,
+        "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.45,
-        "dujos_lpg": 0.62,
-        "dyzelinas_dz": 1.12,
+        "dujos_lpg": 0.61,
+        "dyzelinas_dz": 1.1,
         "benzinas_a98_e5": 0
     },
     "pageleziai": {
@@ -168,10 +168,10 @@
         "benzinas_a98_e5": 0
     },
     "nakmene": {
-        "dyzelinas_b7": 1.48,
+        "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.61,
-        "dyzelinas_dz": 1.12,
+        "dyzelinas_dz": 1.1,
         "benzinas_a98_e5": 0
     },
     "mazeikiai": {
@@ -245,10 +245,10 @@
         "benzinas_a98_e5": 0
     },
     "akmene": {
-        "dyzelinas_b7": 1.46,
+        "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.62,
-        "dyzelinas_dz": 1.12,
+        "dyzelinas_dz": 1.1,
         "benzinas_a98_e5": 0
     },
     "zujunai": {
