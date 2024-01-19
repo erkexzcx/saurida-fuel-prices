@@ -13,6 +13,13 @@
         "dyzelinas_dz": 1.08,
         "benzinas_a98_e5": 1.4
     },
+    "kaunas": {
+        "dyzelinas_b7": 1.44,
+        "benzinas_a95_e5": 1.38,
+        "dujos_lpg": 0.55,
+        "dyzelinas_dz": 0,
+        "benzinas_a98_e5": 0
+    },
     "domeikava": {
         "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.38,
@@ -221,13 +228,6 @@
         "benzinas_a95_e5": 1.38,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.1,
-        "benzinas_a98_e5": 0
-    },
-    "kaunas": {
-        "dyzelinas_b7": 1.44,
-        "benzinas_a95_e5": 1.38,
-        "dujos_lpg": 0.59,
-        "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "alytus_pramones_g": {
