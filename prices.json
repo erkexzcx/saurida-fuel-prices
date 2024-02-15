@@ -1,10 +1,10 @@
 {
-    "marijampole": {
-        "dyzelinas_b7": 1.55,
-        "benzinas_a95_e5": 1.42,
-        "dujos_lpg": 0,
-        "dyzelinas_dz": 1.18,
-        "benzinas_a98_e5": 0
+    "kusliskiai": {
+        "dyzelinas_b7": 1.54,
+        "benzinas_a95_e5": 1.44,
+        "dujos_lpg": 0.55,
+        "dyzelinas_dz": 1.19,
+        "benzinas_a98_e5": 1.46
     },
     "klaipeda": {
         "dyzelinas_b7": 1.57,
@@ -13,12 +13,12 @@
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
-    "kusliskiai": {
-        "dyzelinas_b7": 1.57,
-        "benzinas_a95_e5": 1.44,
-        "dujos_lpg": 0.55,
-        "dyzelinas_dz": 1.19,
-        "benzinas_a98_e5": 1.46
+    "marijampole": {
+        "dyzelinas_b7": 1.55,
+        "benzinas_a95_e5": 1.42,
+        "dujos_lpg": 0,
+        "dyzelinas_dz": 1.18,
+        "benzinas_a98_e5": 0
     },
     "mazeikiai_centrinis_biuras": {
         "dyzelinas_b7": 0,
