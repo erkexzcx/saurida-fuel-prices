@@ -1,10 +1,10 @@
 {
-    "radviliskis": {
-        "dyzelinas_b7": 1.5,
-        "benzinas_a95_e5": 1.45,
-        "dujos_lpg": 0.56,
-        "dyzelinas_dz": 1.16,
-        "benzinas_a98_e5": 0
+    "kusliskiai": {
+        "dyzelinas_b7": 1.49,
+        "benzinas_a95_e5": 1.46,
+        "dujos_lpg": 0.55,
+        "dyzelinas_dz": 1.17,
+        "benzinas_a98_e5": 1.46
     },
     "mauruciai": {
         "dyzelinas_b7": 1.51,
@@ -13,18 +13,11 @@
         "dyzelinas_dz": 1.16,
         "benzinas_a98_e5": 0
     },
-    "kusliskiai": {
-        "dyzelinas_b7": 1.52,
-        "benzinas_a95_e5": 1.46,
-        "dujos_lpg": 0.55,
-        "dyzelinas_dz": 1.17,
-        "benzinas_a98_e5": 1.46
-    },
-    "pasakarniai": {
-        "dyzelinas_b7": 1.54,
-        "benzinas_a95_e5": 1.46,
-        "dujos_lpg": 0.61,
-        "dyzelinas_dz": 1.11,
+    "skuodas": {
+        "dyzelinas_b7": 1.55,
+        "benzinas_a95_e5": 1.45,
+        "dujos_lpg": 0.59,
+        "dyzelinas_dz": 1.09,
         "benzinas_a98_e5": 0
     },
     "mazeikiai_centrinis_biuras": {
@@ -132,18 +125,18 @@
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
-    "skuodas": {
-        "dyzelinas_b7": 1.58,
-        "benzinas_a95_e5": 1.45,
-        "dujos_lpg": 0.59,
-        "dyzelinas_dz": 1.12,
-        "benzinas_a98_e5": 0
-    },
     "rumsiskes": {
         "dyzelinas_b7": 1.57,
         "benzinas_a95_e5": 1.47,
         "dujos_lpg": 0.6,
         "dyzelinas_dz": 1.18,
+        "benzinas_a98_e5": 0
+    },
+    "radviliskis": {
+        "dyzelinas_b7": 1.5,
+        "benzinas_a95_e5": 1.45,
+        "dujos_lpg": 0.56,
+        "dyzelinas_dz": 1.16,
         "benzinas_a98_e5": 0
     },
     "prienai": {
@@ -158,6 +151,13 @@
         "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.57,
         "dyzelinas_dz": 1.16,
+        "benzinas_a98_e5": 0
+    },
+    "pasakarniai": {
+        "dyzelinas_b7": 1.54,
+        "benzinas_a95_e5": 1.46,
+        "dujos_lpg": 0.61,
+        "dyzelinas_dz": 1.11,
         "benzinas_a98_e5": 0
     },
     "pageleziai": {
