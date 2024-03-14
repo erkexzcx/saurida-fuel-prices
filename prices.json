@@ -6,11 +6,11 @@
         "dyzelinas_dz": 1.17,
         "benzinas_a98_e5": 1.46
     },
-    "mauruciai": {
+    "klaipeda": {
         "dyzelinas_b7": 1.51,
-        "benzinas_a95_e5": 1.43,
-        "dujos_lpg": 0,
-        "dyzelinas_dz": 1.16,
+        "benzinas_a95_e5": 1.41,
+        "dujos_lpg": 0.58,
+        "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "skuodas": {
@@ -37,6 +37,13 @@
     "marijampole": {
         "dyzelinas_b7": 1.55,
         "benzinas_a95_e5": 1.46,
+        "dujos_lpg": 0,
+        "dyzelinas_dz": 1.16,
+        "benzinas_a98_e5": 0
+    },
+    "mauruciai": {
+        "dyzelinas_b7": 1.51,
+        "benzinas_a95_e5": 1.43,
         "dujos_lpg": 0,
         "dyzelinas_dz": 1.16,
         "benzinas_a98_e5": 0
@@ -193,13 +200,6 @@
         "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.6,
         "dyzelinas_dz": 1.16,
-        "benzinas_a98_e5": 0
-    },
-    "klaipeda": {
-        "dyzelinas_b7": 1.51,
-        "benzinas_a95_e5": 1.44,
-        "dujos_lpg": 0.55,
-        "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "kazlu_ruda": {
