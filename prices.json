@@ -7,7 +7,7 @@
         "benzinas_a98_e5": 1.46
     },
     "klaipeda": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.41,
         "dujos_lpg": 0.58,
         "dyzelinas_dz": 0,
@@ -35,7 +35,7 @@
         "benzinas_a98_e5": 0
     },
     "marijampole": {
-        "dyzelinas_b7": 1.55,
+        "dyzelinas_b7": 1.53,
         "benzinas_a95_e5": 1.46,
         "dujos_lpg": 0,
         "dyzelinas_dz": 1.16,
@@ -238,14 +238,14 @@
         "benzinas_a98_e5": 0
     },
     "alytus_pramones_g": {
-        "dyzelinas_b7": 1.54,
+        "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "alytus_miskininku_g": {
-        "dyzelinas_b7": 1.54,
+        "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0,
         "dyzelinas_dz": 1.17,
