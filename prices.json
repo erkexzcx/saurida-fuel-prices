@@ -155,7 +155,7 @@
     },
     "pasvenciai": {
         "dyzelinas_b7": 1.49,
-        "benzinas_a95_e5": 1.46,
+        "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.55,
         "dyzelinas_dz": 1.14,
         "benzinas_a98_e5": 0
@@ -197,7 +197,7 @@
     },
     "lazdijai": {
         "dyzelinas_b7": 1.54,
-        "benzinas_a95_e5": 1.49,
+        "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.6,
         "dyzelinas_dz": 1.16,
         "benzinas_a98_e5": 0
