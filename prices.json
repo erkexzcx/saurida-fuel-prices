@@ -239,29 +239,29 @@
     },
     "alytus_pramones_g": {
         "dyzelinas_b7": 1.51,
-        "benzinas_a95_e5": 1.48,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "alytus_miskininku_g": {
         "dyzelinas_b7": 1.51,
-        "benzinas_a95_e5": 1.48,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0,
-        "dyzelinas_dz": 1.15,
+        "dyzelinas_dz": 1.12,
         "benzinas_a98_e5": 0
     },
     "akmene": {
         "dyzelinas_b7": 1.51,
-        "benzinas_a95_e5": 1.48,
+        "benzinas_a95_e5": 1.47,
         "dujos_lpg": 0.61,
         "dyzelinas_dz": 1.11,
         "benzinas_a98_e5": 0
     },
     "zujunai": {
-        "dyzelinas_b7": 1.54,
-        "benzinas_a95_e5": 1.48,
-        "dujos_lpg": 0.61,
+        "dyzelinas_b7": 1.49,
+        "benzinas_a95_e5": 1.5,
+        "dujos_lpg": 0.59,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
