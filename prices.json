@@ -6,6 +6,13 @@
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
+    "marijampole": {
+        "dyzelinas_b7": 1.47,
+        "benzinas_a95_e5": 1.45,
+        "dujos_lpg": 0,
+        "dyzelinas_dz": 1.11,
+        "benzinas_a98_e5": 0
+    },
     "kusliskiai": {
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.48,
@@ -32,13 +39,6 @@
         "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.6,
         "dyzelinas_dz": 1.15,
-        "benzinas_a98_e5": 0
-    },
-    "marijampole": {
-        "dyzelinas_b7": 1.47,
-        "benzinas_a95_e5": 1.48,
-        "dujos_lpg": 0,
-        "dyzelinas_dz": 1.12,
         "benzinas_a98_e5": 0
     },
     "mauruciai": {
