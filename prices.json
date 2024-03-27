@@ -35,7 +35,7 @@
         "benzinas_a98_e5": 0
     },
     "marijampole": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.48,
         "dujos_lpg": 0,
         "dyzelinas_dz": 1.12,
@@ -98,14 +98,14 @@
         "benzinas_a98_e5": 0
     },
     "ukmerge_vilniaus_g": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.11,
         "benzinas_a98_e5": 0
     },
     "ukmerge_kareiviniu_g": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.11,
@@ -126,7 +126,7 @@
         "benzinas_a98_e5": 0
     },
     "skuodas": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.48,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.09,
