@@ -21,8 +21,8 @@
         "benzinas_a98_e5": 1.48
     },
     "silale": {
-        "dyzelinas_b7": 1.45,
-        "benzinas_a95_e5": 1.46,
+        "dyzelinas_b7": 1.47,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.58,
         "dyzelinas_dz": 1.08,
         "benzinas_a98_e5": 0
@@ -120,7 +120,7 @@
     },
     "skuodas": {
         "dyzelinas_b7": 1.48,
-        "benzinas_a95_e5": 1.48,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.09,
         "benzinas_a98_e5": 0
@@ -140,7 +140,7 @@
         "benzinas_a98_e5": 0
     },
     "prienai": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.49,
         "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.6,
         "dyzelinas_dz": 1.09,
@@ -148,7 +148,7 @@
     },
     "pasvenciai": {
         "dyzelinas_b7": 1.49,
-        "benzinas_a95_e5": 1.46,
+        "benzinas_a95_e5": 1.47,
         "dujos_lpg": 0.55,
         "dyzelinas_dz": 1.11,
         "benzinas_a98_e5": 0
