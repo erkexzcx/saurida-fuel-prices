@@ -93,7 +93,7 @@
     "vilnius_jankiskiu_g": {
         "dyzelinas_b7": 1.46,
         "benzinas_a95_e5": 1.53,
-        "dujos_lpg": 0.59,
+        "dujos_lpg": 0.57,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -121,14 +121,14 @@
     "siauliai_vilniaus_g": {
         "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.52,
-        "dujos_lpg": 0.59,
+        "dujos_lpg": 0.57,
         "dyzelinas_dz": 1.1,
         "benzinas_a98_e5": 0
     },
     "siauliai_pramones_g": {
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.52,
-        "dujos_lpg": 0.59,
+        "dujos_lpg": 0.57,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -205,14 +205,14 @@
     "kazlu_ruda": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.57,
+        "dujos_lpg": 0.56,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "kalvarija": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.57,
+        "dujos_lpg": 0.56,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -226,7 +226,7 @@
     "babtai": {
         "dyzelinas_b7": 1.49,
         "benzinas_a95_e5": 1.53,
-        "dujos_lpg": 0.59,
+        "dujos_lpg": 0.57,
         "dyzelinas_dz": 1.11,
         "benzinas_a98_e5": 0
     },
