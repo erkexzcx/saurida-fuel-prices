@@ -1,14 +1,7 @@
 {
-    "radviliskis": {
-        "dyzelinas_b7": 1.45,
-        "benzinas_a95_e5": 1.53,
-        "dujos_lpg": 0.56,
-        "dyzelinas_dz": 1.1,
-        "benzinas_a98_e5": 0
-    },
     "klaipeda": {
-        "dyzelinas_b7": 1.46,
-        "benzinas_a95_e5": 1.46,
+        "dyzelinas_b7": 1.44,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.58,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
@@ -144,6 +137,13 @@
         "benzinas_a95_e5": 1.54,
         "dujos_lpg": 0.57,
         "dyzelinas_dz": 1.11,
+        "benzinas_a98_e5": 0
+    },
+    "radviliskis": {
+        "dyzelinas_b7": 1.45,
+        "benzinas_a95_e5": 1.53,
+        "dujos_lpg": 0.56,
+        "dyzelinas_dz": 1.1,
         "benzinas_a98_e5": 0
     },
     "prienai": {
