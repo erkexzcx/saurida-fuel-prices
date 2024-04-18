@@ -66,7 +66,7 @@
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.53,
         "dujos_lpg": 0.59,
-        "dyzelinas_dz": 1.1,
+        "dyzelinas_dz": 1.09,
         "benzinas_a98_e5": 1.53
     },
     "vilkaviskis": {
@@ -80,7 +80,7 @@
         "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.54,
         "dujos_lpg": 0.59,
-        "dyzelinas_dz": 1.13,
+        "dyzelinas_dz": 1.09,
         "benzinas_a98_e5": 0
     },
     "neveronys_martinavos_g": {
@@ -101,21 +101,21 @@
         "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.52,
         "dujos_lpg": 0.59,
-        "dyzelinas_dz": 1.11,
+        "dyzelinas_dz": 1.09,
         "benzinas_a98_e5": 0
     },
     "ukmerge_kareiviniu_g": {
         "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.52,
         "dujos_lpg": 0.59,
-        "dyzelinas_dz": 1.11,
+        "dyzelinas_dz": 1.09,
         "benzinas_a98_e5": 0
     },
     "silale": {
-        "dyzelinas_b7": 1.49,
-        "benzinas_a95_e5": 1.54,
+        "dyzelinas_b7": 1.46,
+        "benzinas_a95_e5": 1.52,
         "dujos_lpg": 0.58,
-        "dyzelinas_dz": 1.12,
+        "dyzelinas_dz": 1.08,
         "benzinas_a98_e5": 0
     },
     "siauliai_vilniaus_g": {
@@ -136,7 +136,7 @@
         "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.54,
         "dujos_lpg": 0.57,
-        "dyzelinas_dz": 1.11,
+        "dyzelinas_dz": 1.08,
         "benzinas_a98_e5": 0
     },
     "radviliskis": {
@@ -199,7 +199,7 @@
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.54,
         "dujos_lpg": 0.57,
-        "dyzelinas_dz": 1.11,
+        "dyzelinas_dz": 1.08,
         "benzinas_a98_e5": 0
     },
     "kazlu_ruda": {
