@@ -170,7 +170,7 @@
     "pageleziai": {
         "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.52,
-        "dujos_lpg": 0.59,
+        "dujos_lpg": 0.55,
         "dyzelinas_dz": 1.08,
         "benzinas_a98_e5": 0
     },
@@ -191,14 +191,14 @@
     "lekeciai": {
         "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.54,
-        "dujos_lpg": 0.57,
+        "dujos_lpg": 0.55,
         "dyzelinas_dz": 1.11,
         "benzinas_a98_e5": 0
     },
     "lazdijai": {
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.54,
-        "dujos_lpg": 0.57,
+        "dujos_lpg": 0.55,
         "dyzelinas_dz": 1.08,
         "benzinas_a98_e5": 0
     },
@@ -226,7 +226,7 @@
     "babtai": {
         "dyzelinas_b7": 1.49,
         "benzinas_a95_e5": 1.54,
-        "dujos_lpg": 0.57,
+        "dujos_lpg": 0.55,
         "dyzelinas_dz": 1.07,
         "benzinas_a98_e5": 0
     },
