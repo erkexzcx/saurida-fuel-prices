@@ -16,7 +16,7 @@
     "kusliskiai": {
         "dyzelinas_b7": 1.46,
         "benzinas_a95_e5": 1.51,
-        "dujos_lpg": 0.55,
+        "dujos_lpg": 0.53,
         "dyzelinas_dz": 1.09,
         "benzinas_a98_e5": 1.53
     },
@@ -156,7 +156,7 @@
     "pasvenciai": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.53,
-        "dujos_lpg": 0.55,
+        "dujos_lpg": 0.53,
         "dyzelinas_dz": 1.06,
         "benzinas_a98_e5": 0
     },
@@ -233,7 +233,7 @@
     "kaunas": {
         "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.52,
-        "dujos_lpg": 0.55,
+        "dujos_lpg": 0.53,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
