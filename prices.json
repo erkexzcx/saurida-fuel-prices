@@ -1,13 +1,6 @@
 {
-    "silale": {
-        "dyzelinas_b7": 1.39,
-        "benzinas_a95_e5": 1.5,
-        "dujos_lpg": 0.58,
-        "dyzelinas_dz": 1.02,
-        "benzinas_a98_e5": 0
-    },
     "klaipeda": {
-        "dyzelinas_b7": 1.4,
+        "dyzelinas_b7": 1.38,
         "benzinas_a95_e5": 1.46,
         "dujos_lpg": 0.58,
         "dyzelinas_dz": 0,
@@ -109,6 +102,13 @@
         "benzinas_a95_e5": 1.52,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.06,
+        "benzinas_a98_e5": 0
+    },
+    "silale": {
+        "dyzelinas_b7": 1.39,
+        "benzinas_a95_e5": 1.5,
+        "dujos_lpg": 0.58,
+        "dyzelinas_dz": 1.02,
         "benzinas_a98_e5": 0
     },
     "siauliai_vilniaus_g": {
