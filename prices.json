@@ -6,12 +6,12 @@
         "dyzelinas_dz": 1.02,
         "benzinas_a98_e5": 1.53
     },
-    "velziai": {
-        "dyzelinas_b7": 1.38,
-        "benzinas_a95_e5": 1.46,
-        "dujos_lpg": 0.56,
-        "dyzelinas_dz": 1.02,
-        "benzinas_a98_e5": 1.51
+    "klaipeda": {
+        "dyzelinas_b7": 1.37,
+        "benzinas_a95_e5": 1.44,
+        "dujos_lpg": 0.58,
+        "dyzelinas_dz": 0,
+        "benzinas_a98_e5": 0
     },
     "silale": {
         "dyzelinas_b7": 1.39,
@@ -19,6 +19,13 @@
         "dujos_lpg": 0.58,
         "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 0
+    },
+    "velziai": {
+        "dyzelinas_b7": 1.38,
+        "benzinas_a95_e5": 1.46,
+        "dujos_lpg": 0.56,
+        "dyzelinas_dz": 1.02,
+        "benzinas_a98_e5": 1.51
     },
     "mazeikiai_centrinis_biuras": {
         "dyzelinas_b7": 0,
@@ -77,7 +84,7 @@
         "benzinas_a98_e5": 0
     },
     "neveronys_martinavos_g": {
-        "dyzelinas_b7": 1.42,
+        "dyzelinas_b7": 1.4,
         "benzinas_a95_e5": 1.51,
         "dujos_lpg": 0.55,
         "dyzelinas_dz": 0,
@@ -105,15 +112,15 @@
         "benzinas_a98_e5": 0
     },
     "siauliai_vilniaus_g": {
-        "dyzelinas_b7": 1.4,
-        "benzinas_a95_e5": 1.52,
+        "dyzelinas_b7": 1.38,
+        "benzinas_a95_e5": 1.5,
         "dujos_lpg": 0.57,
         "dyzelinas_dz": 1.02,
         "benzinas_a98_e5": 0
     },
     "siauliai_pramones_g": {
-        "dyzelinas_b7": 1.4,
-        "benzinas_a95_e5": 1.52,
+        "dyzelinas_b7": 1.38,
+        "benzinas_a95_e5": 1.5,
         "dujos_lpg": 0.57,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
@@ -195,13 +202,6 @@
         "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
     },
-    "klaipeda": {
-        "dyzelinas_b7": 1.38,
-        "benzinas_a95_e5": 1.46,
-        "dujos_lpg": 0.58,
-        "dyzelinas_dz": 0,
-        "benzinas_a98_e5": 0
-    },
     "kazlu_ruda": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
@@ -231,8 +231,8 @@
         "benzinas_a98_e5": 0
     },
     "kaunas": {
-        "dyzelinas_b7": 1.41,
-        "benzinas_a95_e5": 1.52,
+        "dyzelinas_b7": 1.37,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.53,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
