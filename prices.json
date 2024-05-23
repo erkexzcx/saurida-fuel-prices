@@ -50,9 +50,9 @@
     },
     "mauruciai": {
         "dyzelinas_b7": 1.37,
-        "benzinas_a95_e5": 1.5,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0,
-        "dyzelinas_dz": 1.07,
+        "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
     },
     "vilnius_staneviciaus_g_3a": {
@@ -127,9 +127,9 @@
     },
     "skuodas": {
         "dyzelinas_b7": 1.37,
-        "benzinas_a95_e5": 1.5,
+        "benzinas_a95_e5": 1.48,
         "dujos_lpg": 0.56,
-        "dyzelinas_dz": 1.02,
+        "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
     },
     "rumsiskes": {
@@ -268,7 +268,7 @@
     "zirmunai": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.6,
+        "dujos_lpg": 0.57,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     }
