@@ -35,8 +35,8 @@
         "benzinas_a98_e5": 0
     },
     "domeikava": {
-        "dyzelinas_b7": 1.39,
-        "benzinas_a95_e5": 1.52,
+        "dyzelinas_b7": 1.37,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
@@ -134,7 +134,7 @@
     },
     "rumsiskes": {
         "dyzelinas_b7": 1.39,
-        "benzinas_a95_e5": 1.52,
+        "benzinas_a95_e5": 1.5,
         "dujos_lpg": 0.57,
         "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
@@ -190,7 +190,7 @@
     },
     "lekeciai": {
         "dyzelinas_b7": 1.38,
-        "benzinas_a95_e5": 1.52,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.55,
         "dyzelinas_dz": 1.02,
         "benzinas_a98_e5": 0
