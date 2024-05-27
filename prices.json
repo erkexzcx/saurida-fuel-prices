@@ -9,7 +9,7 @@
     "klaipeda": {
         "dyzelinas_b7": 1.35,
         "benzinas_a95_e5": 1.44,
-        "dujos_lpg": 0.58,
+        "dujos_lpg": 0.54,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -23,7 +23,7 @@
     "silale": {
         "dyzelinas_b7": 1.39,
         "benzinas_a95_e5": 1.5,
-        "dujos_lpg": 0.56,
+        "dujos_lpg": 0.54,
         "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 0
     },
@@ -58,21 +58,21 @@
     "vilnius_staneviciaus_g_3a": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.61,
+        "dujos_lpg": 0.57,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "vilnius_rygos_g_2b": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.61,
+        "dujos_lpg": 0.57,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "vilkaviskis": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.59,
+        "dujos_lpg": 0.56,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -92,7 +92,7 @@
     },
     "vilnius_jankiskiu_g": {
         "dyzelinas_b7": 1.37,
-        "benzinas_a95_e5": 1.48,
+        "benzinas_a95_e5": 1.47,
         "dujos_lpg": 0.57,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
@@ -121,7 +121,7 @@
     "siauliai_pramones_g": {
         "dyzelinas_b7": 1.36,
         "benzinas_a95_e5": 1.5,
-        "dujos_lpg": 0.57,
+        "dujos_lpg": 0.54,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -148,7 +148,7 @@
     },
     "prienai": {
         "dyzelinas_b7": 1.36,
-        "benzinas_a95_e5": 1.5,
+        "benzinas_a95_e5": 1.48,
         "dujos_lpg": 0.58,
         "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
@@ -239,14 +239,14 @@
     },
     "alytus_pramones_g": {
         "dyzelinas_b7": 1.4,
-        "benzinas_a95_e5": 1.5,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.59,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "alytus_miskininku_g": {
         "dyzelinas_b7": 1.4,
-        "benzinas_a95_e5": 1.5,
+        "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0,
         "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
