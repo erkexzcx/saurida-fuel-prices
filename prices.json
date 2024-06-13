@@ -1,7 +1,7 @@
 {
     "marijampole": {
         "dyzelinas_b7": 1.35,
-        "benzinas_a95_e5": 1.49,
+        "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0,
         "dyzelinas_dz": 0.98,
         "benzinas_a98_e5": 0
@@ -15,7 +15,7 @@
     },
     "kusliskiai": {
         "dyzelinas_b7": 1.36,
-        "benzinas_a95_e5": 1.48,
+        "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.53,
         "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 1.5
