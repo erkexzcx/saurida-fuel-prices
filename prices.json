@@ -10,7 +10,7 @@
         "dyzelinas_b7": 1.39,
         "benzinas_a95_e5": 1.41,
         "dujos_lpg": 0.55,
-        "dyzelinas_dz": 0.98,
+        "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
     },
     "mauruciai": {
@@ -196,7 +196,7 @@
         "benzinas_a98_e5": 0
     },
     "klaipeda": {
-        "dyzelinas_b7": 1.38,
+        "dyzelinas_b7": 1.39,
         "benzinas_a95_e5": 1.48,
         "dujos_lpg": 0.54,
         "dyzelinas_dz": 0,
@@ -227,7 +227,7 @@
         "dyzelinas_b7": 1.39,
         "benzinas_a95_e5": 1.49,
         "dujos_lpg": 0.55,
-        "dyzelinas_dz": 0.98,
+        "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
     },
     "kaunas": {
@@ -254,8 +254,8 @@
     "akmene": {
         "dyzelinas_b7": 1.39,
         "benzinas_a95_e5": 1.48,
-        "dujos_lpg": 0.59,
-        "dyzelinas_dz": 0.97,
+        "dujos_lpg": 0.56,
+        "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
     },
     "zujunai": {
