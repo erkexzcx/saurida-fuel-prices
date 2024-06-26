@@ -1,6 +1,6 @@
 {
     "kusliskiai": {
-        "dyzelinas_b7": 1.39,
+        "dyzelinas_b7": 1.36,
         "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.53,
         "dyzelinas_dz": 1.0,
@@ -84,7 +84,7 @@
         "benzinas_a98_e5": 0
     },
     "neveronys_martinavos_g": {
-        "dyzelinas_b7": 1.4,
+        "dyzelinas_b7": 1.37,
         "benzinas_a95_e5": 1.51,
         "dujos_lpg": 0.55,
         "dyzelinas_dz": 0,
@@ -206,7 +206,7 @@
         "dyzelinas_b7": 1.42,
         "benzinas_a95_e5": 1.46,
         "dujos_lpg": 0.55,
-        "dyzelinas_dz": 1.0,
+        "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 0
     },
     "klaipeda": {
