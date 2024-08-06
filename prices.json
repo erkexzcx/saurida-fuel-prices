@@ -78,7 +78,7 @@
     },
     "visaginas": {
         "dyzelinas_b7": 1.4,
-        "benzinas_a95_e5": 1.46,
+        "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.62,
         "dyzelinas_dz": 1.03,
         "benzinas_a98_e5": 0
@@ -119,14 +119,14 @@
         "benzinas_a98_e5": 0
     },
     "siauliai_vilniaus_g": {
-        "dyzelinas_b7": 1.37,
+        "dyzelinas_b7": 1.36,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.61,
         "dyzelinas_dz": 1.03,
         "benzinas_a98_e5": 0
     },
     "siauliai_pramones_g": {
-        "dyzelinas_b7": 1.36,
+        "dyzelinas_b7": 1.35,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.6,
         "dyzelinas_dz": 0,
