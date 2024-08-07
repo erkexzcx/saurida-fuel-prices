@@ -203,8 +203,8 @@
         "benzinas_a98_e5": 0
     },
     "klaipeda": {
-        "dyzelinas_b7": 1.36,
-        "benzinas_a95_e5": 1.42,
+        "dyzelinas_b7": 1.33,
+        "benzinas_a95_e5": 1.39,
         "dujos_lpg": 0.61,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
@@ -231,10 +231,10 @@
         "benzinas_a98_e5": 0
     },
     "babtai": {
-        "dyzelinas_b7": 1.39,
-        "benzinas_a95_e5": 1.45,
+        "dyzelinas_b7": 1.36,
+        "benzinas_a95_e5": 1.42,
         "dujos_lpg": 0.61,
-        "dyzelinas_dz": 1.0,
+        "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
     },
     "kaunas": {
