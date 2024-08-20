@@ -77,14 +77,14 @@
         "benzinas_a98_e5": 0
     },
     "visaginas": {
-        "dyzelinas_b7": 1.39,
+        "dyzelinas_b7": 1.37,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.63,
         "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
     },
     "neveronys_martinavos_g": {
-        "dyzelinas_b7": 1.38,
+        "dyzelinas_b7": 1.36,
         "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.63,
         "dyzelinas_dz": 0,
@@ -224,7 +224,7 @@
         "benzinas_a98_e5": 0
     },
     "cekoniskes": {
-        "dyzelinas_b7": 1.39,
+        "dyzelinas_b7": 1.37,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0,
         "dyzelinas_dz": 0,
@@ -266,7 +266,7 @@
         "benzinas_a98_e5": 0
     },
     "zujunai": {
-        "dyzelinas_b7": 1.39,
+        "dyzelinas_b7": 1.37,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.63,
         "dyzelinas_dz": 0,
