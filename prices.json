@@ -86,7 +86,7 @@
     "vilnius_jankiskiu_g": {
         "dyzelinas_b7": 1.27,
         "benzinas_a95_e5": 1.3,
-        "dujos_lpg": 0.68,
+        "dujos_lpg": 0.62,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -261,7 +261,7 @@
     "zujunai": {
         "dyzelinas_b7": 1.31,
         "benzinas_a95_e5": 1.32,
-        "dujos_lpg": 0.68,
+        "dujos_lpg": 0.63,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
