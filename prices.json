@@ -1,9 +1,9 @@
 {
-    "siauliai_vilniaus_g": {
+    "neveronys_martinavos_g": {
         "dyzelinas_b7": 1.3,
-        "benzinas_a95_e5": 1.33,
+        "benzinas_a95_e5": 1.32,
         "dujos_lpg": 0.69,
-        "dyzelinas_dz": 0.92,
+        "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "mauruciai": {
@@ -76,13 +76,6 @@
         "dyzelinas_dz": 0.92,
         "benzinas_a98_e5": 0
     },
-    "neveronys_martinavos_g": {
-        "dyzelinas_b7": 1.33,
-        "benzinas_a95_e5": 1.35,
-        "dujos_lpg": 0.69,
-        "dyzelinas_dz": 0,
-        "benzinas_a98_e5": 0
-    },
     "vilnius_jankiskiu_g": {
         "dyzelinas_b7": 1.34,
         "benzinas_a95_e5": 1.34,
@@ -109,6 +102,13 @@
         "benzinas_a95_e5": 1.32,
         "dujos_lpg": 0.69,
         "dyzelinas_dz": 0.89,
+        "benzinas_a98_e5": 0
+    },
+    "siauliai_vilniaus_g": {
+        "dyzelinas_b7": 1.3,
+        "benzinas_a95_e5": 1.33,
+        "dujos_lpg": 0.69,
+        "dyzelinas_dz": 0.92,
         "benzinas_a98_e5": 0
     },
     "siauliai_pramones_g": {
