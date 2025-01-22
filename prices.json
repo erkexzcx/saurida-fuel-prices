@@ -86,15 +86,15 @@
     "ukmerge_vilniaus_g": {
         "dyzelinas_b7": 1.55,
         "benzinas_a95_e5": 1.45,
-        "dujos_lpg": 0.76,
-        "dyzelinas_dz": 1.06,
+        "dujos_lpg": 0.74,
+        "dyzelinas_dz": 1.05,
         "benzinas_a98_e5": 0
     },
     "ukmerge_kareiviniu_g": {
         "dyzelinas_b7": 1.58,
         "benzinas_a95_e5": 1.48,
-        "dujos_lpg": 0.76,
-        "dyzelinas_dz": 1.06,
+        "dujos_lpg": 0.74,
+        "dyzelinas_dz": 1.05,
         "benzinas_a98_e5": 0
     },
     "silale": {
@@ -119,7 +119,7 @@
         "benzinas_a98_e5": 0
     },
     "skuodas": {
-        "dyzelinas_b7": 1.62,
+        "dyzelinas_b7": 1.6,
         "benzinas_a95_e5": 1.48,
         "dujos_lpg": 0.77,
         "dyzelinas_dz": 1.08,
@@ -161,14 +161,14 @@
         "benzinas_a98_e5": 0
     },
     "pageleziai": {
-        "dyzelinas_b7": 1.58,
+        "dyzelinas_b7": 1.56,
         "benzinas_a95_e5": 1.47,
         "dujos_lpg": 0.76,
         "dyzelinas_dz": 1.06,
         "benzinas_a98_e5": 0
     },
     "nakmene": {
-        "dyzelinas_b7": 1.61,
+        "dyzelinas_b7": 1.6,
         "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.76,
         "dyzelinas_dz": 1.07,
@@ -182,7 +182,7 @@
         "benzinas_a98_e5": 0
     },
     "lekeciai": {
-        "dyzelinas_b7": 1.59,
+        "dyzelinas_b7": 1.57,
         "benzinas_a95_e5": 1.45,
         "dujos_lpg": 0.77,
         "dyzelinas_dz": 1.07,
