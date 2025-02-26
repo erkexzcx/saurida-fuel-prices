@@ -112,8 +112,8 @@
         "benzinas_a98_e5": 0
     },
     "silale": {
-        "dyzelinas_b7": 1.56,
-        "benzinas_a95_e5": 1.47,
+        "dyzelinas_b7": 1.54,
+        "benzinas_a95_e5": 1.46,
         "dujos_lpg": 0.78,
         "dyzelinas_dz": 1.04,
         "benzinas_a98_e5": 0
@@ -128,7 +128,7 @@
     "skuodas": {
         "dyzelinas_b7": 1.55,
         "benzinas_a95_e5": 1.45,
-        "dujos_lpg": 0.76,
+        "dujos_lpg": 0.75,
         "dyzelinas_dz": 1.06,
         "benzinas_a98_e5": 0
     },
@@ -203,9 +203,9 @@
         "benzinas_a98_e5": 0
     },
     "klaipeda": {
-        "dyzelinas_b7": 1.58,
-        "benzinas_a95_e5": 1.46,
-        "dujos_lpg": 0.77,
+        "dyzelinas_b7": 1.55,
+        "benzinas_a95_e5": 1.44,
+        "dujos_lpg": 0.75,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
