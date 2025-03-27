@@ -6,11 +6,11 @@
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
-    "kaunas": {
-        "dyzelinas_b7": 1.51,
-        "benzinas_a95_e5": 1.4,
-        "dujos_lpg": 0.7,
-        "dyzelinas_dz": 0,
+    "silale": {
+        "dyzelinas_b7": 1.5,
+        "benzinas_a95_e5": 1.41,
+        "dujos_lpg": 0.73,
+        "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
     },
     "pasakarniai": {
@@ -116,13 +116,6 @@
         "benzinas_a95_e5": 1.42,
         "dujos_lpg": 0.76,
         "dyzelinas_dz": 1.02,
-        "benzinas_a98_e5": 0
-    },
-    "silale": {
-        "dyzelinas_b7": 1.5,
-        "benzinas_a95_e5": 1.41,
-        "dujos_lpg": 0.73,
-        "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
     },
     "siauliai_vilniaus_g": {
@@ -235,6 +228,13 @@
         "benzinas_a95_e5": 1.42,
         "dujos_lpg": 0.74,
         "dyzelinas_dz": 1.0,
+        "benzinas_a98_e5": 0
+    },
+    "kaunas": {
+        "dyzelinas_b7": 1.51,
+        "benzinas_a95_e5": 1.4,
+        "dujos_lpg": 0.75,
+        "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "alytus_pramones_g": {
