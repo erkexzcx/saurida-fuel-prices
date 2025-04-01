@@ -49,7 +49,7 @@
         "benzinas_a98_e5": 0
     },
     "mauruciai": {
-        "dyzelinas_b7": 1.49,
+        "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.39,
         "dujos_lpg": 0,
         "dyzelinas_dz": 1.0,
@@ -189,9 +189,9 @@
         "benzinas_a98_e5": 0
     },
     "lekeciai": {
-        "dyzelinas_b7": 1.54,
+        "dyzelinas_b7": 1.5,
         "benzinas_a95_e5": 1.45,
-        "dujos_lpg": 0.75,
+        "dujos_lpg": 0.74,
         "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
     },
@@ -224,7 +224,7 @@
         "benzinas_a98_e5": 0
     },
     "babtai": {
-        "dyzelinas_b7": 1.48,
+        "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.42,
         "dujos_lpg": 0.74,
         "dyzelinas_dz": 1.0,
