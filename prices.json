@@ -128,7 +128,7 @@
     "skuodas": {
         "dyzelinas_b7": 1.49,
         "benzinas_a95_e5": 1.41,
-        "dujos_lpg": 0.76,
+        "dujos_lpg": 0.74,
         "dyzelinas_dz": 0.96,
         "benzinas_a98_e5": 0
     },
@@ -155,7 +155,7 @@
     },
     "pasvenciai": {
         "dyzelinas_b7": 1.48,
-        "benzinas_a95_e5": 1.38,
+        "benzinas_a95_e5": 1.41,
         "dujos_lpg": 0.75,
         "dyzelinas_dz": 1.0,
         "benzinas_a98_e5": 0
