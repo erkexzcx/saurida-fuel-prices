@@ -133,17 +133,17 @@
         "benzinas_a98_e5": 0
     },
     "rumsiskes": {
-        "dyzelinas_b7": 1.52,
+        "dyzelinas_b7": 1.49,
         "benzinas_a95_e5": 1.43,
         "dujos_lpg": 0.74,
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 0
     },
     "prienai": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.49,
         "benzinas_a95_e5": 1.42,
         "dujos_lpg": 0.75,
-        "dyzelinas_dz": 1.0,
+        "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 0
     },
     "pasvenciai": {
@@ -259,7 +259,7 @@
         "benzinas_a98_e5": 0
     },
     "zujunai": {
-        "dyzelinas_b7": 1.51,
+        "dyzelinas_b7": 1.49,
         "benzinas_a95_e5": 1.44,
         "dujos_lpg": 0.77,
         "dyzelinas_dz": 0,
