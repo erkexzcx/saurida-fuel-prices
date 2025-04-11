@@ -9,14 +9,14 @@
     "ukmerge_vilniaus_g": {
         "dyzelinas_b7": 1.44,
         "benzinas_a95_e5": 1.38,
-        "dujos_lpg": 0.76,
+        "dujos_lpg": 0.74,
         "dyzelinas_dz": 0.93,
         "benzinas_a98_e5": 0
     },
     "silale": {
         "dyzelinas_b7": 1.46,
         "benzinas_a95_e5": 1.44,
-        "dujos_lpg": 0.73,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 0
     },
@@ -51,21 +51,21 @@
     "vilnius_staneviciaus_g_3a": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.77,
+        "dujos_lpg": 0.75,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "vilnius_rygos_g_2b": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.77,
+        "dujos_lpg": 0.75,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "velziai": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.42,
-        "dujos_lpg": 0.75,
+        "dujos_lpg": 0.73,
         "dyzelinas_dz": 0.98,
         "benzinas_a98_e5": 1.42
     },
@@ -77,16 +77,16 @@
         "benzinas_a98_e5": 0
     },
     "visaginas": {
-        "dyzelinas_b7": 1.48,
-        "benzinas_a95_e5": 1.43,
-        "dujos_lpg": 0.77,
+        "dyzelinas_b7": 1.44,
+        "benzinas_a95_e5": 1.42,
+        "dujos_lpg": 0.76,
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 0
     },
     "neveronys_martinavos_g": {
         "dyzelinas_b7": 1.48,
         "benzinas_a95_e5": 1.4,
-        "dujos_lpg": 0.76,
+        "dujos_lpg": 0.74,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -100,21 +100,21 @@
     "ukmerge_kareiviniu_g": {
         "dyzelinas_b7": 1.44,
         "benzinas_a95_e5": 1.38,
-        "dujos_lpg": 0.76,
+        "dujos_lpg": 0.74,
         "dyzelinas_dz": 0.93,
         "benzinas_a98_e5": 0
     },
     "siauliai_vilniaus_g": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.39,
-        "dujos_lpg": 0.75,
+        "dujos_lpg": 0.74,
         "dyzelinas_dz": 0.99,
         "benzinas_a98_e5": 0
     },
     "siauliai_pramones_g": {
         "dyzelinas_b7": 1.42,
         "benzinas_a95_e5": 1.39,
-        "dujos_lpg": 0.74,
+        "dujos_lpg": 0.73,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -128,14 +128,14 @@
     "rumsiskes": {
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.43,
-        "dujos_lpg": 0.74,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 0
     },
     "radviliskis": {
         "dyzelinas_b7": 1.44,
         "benzinas_a95_e5": 1.42,
-        "dujos_lpg": 0.75,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 0
     },
@@ -149,28 +149,28 @@
     "pasvenciai": {
         "dyzelinas_b7": 1.46,
         "benzinas_a95_e5": 1.39,
-        "dujos_lpg": 0.75,
+        "dujos_lpg": 0.73,
         "dyzelinas_dz": 0.98,
         "benzinas_a98_e5": 0
     },
     "pasakarniai": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.42,
-        "dujos_lpg": 0.77,
+        "dujos_lpg": 0.76,
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 0
     },
     "pageleziai": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.38,
-        "dujos_lpg": 0.77,
+        "dujos_lpg": 0.75,
         "dyzelinas_dz": 0.98,
         "benzinas_a98_e5": 0
     },
     "nakmene": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.42,
-        "dujos_lpg": 0.77,
+        "dujos_lpg": 0.76,
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 0
     },
@@ -191,14 +191,14 @@
     "lazdijai": {
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.42,
-        "dujos_lpg": 0.74,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 0
     },
     "klaipeda": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.44,
-        "dujos_lpg": 0.75,
+        "dujos_lpg": 0.73,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -212,7 +212,7 @@
     "kalvarija": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.74,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -226,14 +226,14 @@
     "babtai": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.43,
-        "dujos_lpg": 0.74,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0.97,
         "benzinas_a98_e5": 0
     },
     "kaunas": {
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.39,
-        "dujos_lpg": 0.75,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -254,21 +254,21 @@
     "akmene": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.4,
-        "dujos_lpg": 0.77,
+        "dujos_lpg": 0.76,
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 0
     },
     "zujunai": {
         "dyzelinas_b7": 1.47,
         "benzinas_a95_e5": 1.44,
-        "dujos_lpg": 0.77,
+        "dujos_lpg": 0.75,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "zirmunai": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.76,
+        "dujos_lpg": 0.72,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     }
