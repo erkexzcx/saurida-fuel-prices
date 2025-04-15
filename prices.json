@@ -7,17 +7,10 @@
         "benzinas_a98_e5": 0
     },
     "silale": {
-        "dyzelinas_b7": 1.46,
-        "benzinas_a95_e5": 1.44,
+        "dyzelinas_b7": 1.42,
+        "benzinas_a95_e5": 1.42,
         "dujos_lpg": 0.72,
-        "dyzelinas_dz": 0.95,
-        "benzinas_a98_e5": 0
-    },
-    "ukmerge_vilniaus_g": {
-        "dyzelinas_b7": 1.44,
-        "benzinas_a95_e5": 1.38,
-        "dujos_lpg": 0.74,
-        "dyzelinas_dz": 0.93,
+        "dyzelinas_dz": 0.92,
         "benzinas_a98_e5": 0
     },
     "kusliskiai": {
@@ -102,6 +95,13 @@
         "benzinas_a95_e5": 1.43,
         "dujos_lpg": 0.77,
         "dyzelinas_dz": 0,
+        "benzinas_a98_e5": 0
+    },
+    "ukmerge_vilniaus_g": {
+        "dyzelinas_b7": 1.44,
+        "benzinas_a95_e5": 1.38,
+        "dujos_lpg": 0.74,
+        "dyzelinas_dz": 0.93,
         "benzinas_a98_e5": 0
     },
     "ukmerge_kareiviniu_g": {
