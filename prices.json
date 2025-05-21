@@ -15,7 +15,7 @@
     },
     "marijampole": {
         "dyzelinas_b7": 1.37,
-        "benzinas_a95_e5": 1.38,
+        "benzinas_a95_e5": 1.35,
         "dujos_lpg": 0,
         "dyzelinas_dz": 0.85,
         "benzinas_a98_e5": 0
@@ -37,14 +37,14 @@
     "kusliskiai": {
         "dyzelinas_b7": 1.38,
         "benzinas_a95_e5": 1.37,
-        "dujos_lpg": 0.7,
+        "dujos_lpg": 0.68,
         "dyzelinas_dz": 0.86,
         "benzinas_a98_e5": 1.4
     },
     "domeikava": {
-        "dyzelinas_b7": 1.41,
+        "dyzelinas_b7": 1.39,
         "benzinas_a95_e5": 1.34,
-        "dujos_lpg": 0.71,
+        "dujos_lpg": 0.68,
         "dyzelinas_dz": 0.87,
         "benzinas_a98_e5": 0
     },
@@ -58,7 +58,7 @@
     "vilnius_staneviciaus_g_3a": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.7,
+        "dujos_lpg": 0.68,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
