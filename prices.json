@@ -9,7 +9,7 @@
     "velziai": {
         "dyzelinas_b7": 1.36,
         "benzinas_a95_e5": 1.32,
-        "dujos_lpg": 0.69,
+        "dujos_lpg": 0.68,
         "dyzelinas_dz": 0.87,
         "benzinas_a98_e5": 1.39
     },
@@ -58,14 +58,14 @@
     "vilnius_staneviciaus_g_3a": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.68,
+        "dujos_lpg": 0.65,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
     "vilnius_rygos_g_2b": {
         "dyzelinas_b7": 0,
         "benzinas_a95_e5": 0,
-        "dujos_lpg": 0.67,
+        "dujos_lpg": 0.65,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -93,7 +93,7 @@
     "vilnius_jankiskiu_g": {
         "dyzelinas_b7": 1.36,
         "benzinas_a95_e5": 1.37,
-        "dujos_lpg": 0.69,
+        "dujos_lpg": 0.67,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
@@ -261,7 +261,7 @@
     "zujunai": {
         "dyzelinas_b7": 1.39,
         "benzinas_a95_e5": 1.38,
-        "dujos_lpg": 0.68,
+        "dujos_lpg": 0.67,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
