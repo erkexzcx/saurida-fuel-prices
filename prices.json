@@ -234,7 +234,7 @@
         "dyzelinas_b7": 1.43,
         "benzinas_a95_e5": 1.37,
         "dujos_lpg": 0.64,
-        "dyzelinas_dz": 0.96,
+        "dyzelinas_dz": 0.94,
         "benzinas_a98_e5": 0
     },
     "alytus_pramones_g": {
@@ -248,14 +248,14 @@
         "dyzelinas_b7": 1.42,
         "benzinas_a95_e5": 1.37,
         "dujos_lpg": 0,
-        "dyzelinas_dz": 0.95,
+        "dyzelinas_dz": 0.93,
         "benzinas_a98_e5": 0
     },
     "akmene": {
         "dyzelinas_b7": 1.45,
         "benzinas_a95_e5": 1.38,
         "dujos_lpg": 0.64,
-        "dyzelinas_dz": 0.96,
+        "dyzelinas_dz": 0.94,
         "benzinas_a98_e5": 0
     },
     "zujunai": {
