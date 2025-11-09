@@ -34,13 +34,6 @@
         "dyzelinas_dz": 0.95,
         "benzinas_a98_e5": 1.35
     },
-    "mazeikiai_centrinis_biuras": {
-        "dyzelinas_b7": 0,
-        "benzinas_a95_e5": 0,
-        "dujos_lpg": 0,
-        "dyzelinas_dz": 0,
-        "benzinas_a98_e5": 0
-    },
     "domeikava": {
         "dyzelinas_b7": 1.44,
         "benzinas_a95_e5": 1.35,
