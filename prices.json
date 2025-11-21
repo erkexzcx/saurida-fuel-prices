@@ -13,12 +13,12 @@
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
-    "velziai": {
-        "dyzelinas_b7": 1.52,
-        "benzinas_a95_e5": 1.38,
-        "dujos_lpg": 0.63,
-        "dyzelinas_dz": 1.02,
-        "benzinas_a98_e5": 1.39
+    "skuodas": {
+        "dyzelinas_b7": 1.5,
+        "benzinas_a95_e5": 1.39,
+        "dujos_lpg": 0.64,
+        "dyzelinas_dz": 1.0,
+        "benzinas_a98_e5": 0
     },
     "domeikava": {
         "dyzelinas_b7": 1.55,
@@ -54,6 +54,13 @@
         "dujos_lpg": 0.66,
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
+    },
+    "velziai": {
+        "dyzelinas_b7": 1.52,
+        "benzinas_a95_e5": 1.38,
+        "dujos_lpg": 0.63,
+        "dyzelinas_dz": 1.02,
+        "benzinas_a98_e5": 1.39
     },
     "visaginas": {
         "dyzelinas_b7": 1.52,
@@ -111,13 +118,6 @@
         "dyzelinas_dz": 0,
         "benzinas_a98_e5": 0
     },
-    "skuodas": {
-        "dyzelinas_b7": 1.53,
-        "benzinas_a95_e5": 1.39,
-        "dujos_lpg": 0.65,
-        "dyzelinas_dz": 1.02,
-        "benzinas_a98_e5": 0
-    },
     "rumsiskes": {
         "dyzelinas_b7": 1.6,
         "benzinas_a95_e5": 1.41,
@@ -147,10 +147,10 @@
         "benzinas_a98_e5": 0
     },
     "pasakarniai": {
-        "dyzelinas_b7": 1.55,
+        "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.39,
         "dujos_lpg": 0.66,
-        "dyzelinas_dz": 1.04,
+        "dyzelinas_dz": 1.02,
         "benzinas_a98_e5": 0
     },
     "pageleziai": {
@@ -161,10 +161,10 @@
         "benzinas_a98_e5": 0
     },
     "nakmene": {
-        "dyzelinas_b7": 1.55,
+        "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.39,
         "dujos_lpg": 0.66,
-        "dyzelinas_dz": 1.04,
+        "dyzelinas_dz": 1.02,
         "benzinas_a98_e5": 0
     },
     "lekeciai": {
@@ -224,10 +224,10 @@
         "benzinas_a98_e5": 0
     },
     "akmene": {
-        "dyzelinas_b7": 1.55,
+        "dyzelinas_b7": 1.51,
         "benzinas_a95_e5": 1.38,
         "dujos_lpg": 0.66,
-        "dyzelinas_dz": 1.04,
+        "dyzelinas_dz": 1.02,
         "benzinas_a98_e5": 0
     },
     "zujunai": {
